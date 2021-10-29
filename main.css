@@ -1,0 +1,23 @@
+.block {
+    display: inline-block;
+    margin: 2px;
+    width: 48px;
+    height: 48px;
+    border-spacing: 5px;
+    background-color: gray;
+    font-family: 'Sora', sans-serif;
+    text-align: center;
+    font-size: 24px;
+}
+
+.count {
+    display: table-cell;
+    vertical-align: middle;
+    width: 96px;
+    height: 48px;
+    color: white;
+    background-color: tomato;
+    font-family: 'Sora', sans-serif;
+    text-align: center;
+    font-size: 24px;
+}
